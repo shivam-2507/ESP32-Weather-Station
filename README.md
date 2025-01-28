@@ -86,6 +86,10 @@ A weather station project that measures temperature, humidity, and heat index us
 | Motor IN1            | GPIO 27          | 27              |
 | Motor IN2            | GPIO 26          | 26              |
 
+### Circuit Diagram
+![Circuit Diagram](https://github.com/shivam-2507/ESP32-Weather-Station/blob/master/image/Circuit.png)
+
+
 ### Software Requirements
 - PlatformIO for ESP32 development
 - Xcode for iOS app development
